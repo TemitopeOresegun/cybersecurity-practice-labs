@@ -15,7 +15,8 @@ This portfolio reflects my commitment to building practical skills, understandin
 
 ## Platforms
 
-- TryHackMe  
+- TryHackMe
+- CISCO 
 - (Planning to explore others like Hack The Box and CyberSecLabs)
 
 ---
