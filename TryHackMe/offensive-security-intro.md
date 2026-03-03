@@ -6,4 +6,4 @@ Learned to identify and exploit basic vulnerabilities, gaining hands-on experien
 
 ![Offensive Security Intro Badge](/TryHackMe/images/offensive-security-badge.png)
 
-*Screenshot of the TryHacKme Offensive Security Intro lab completion.*
+*Screenshot of the TryHacKMe Offensive Security Intro lab completion.*
