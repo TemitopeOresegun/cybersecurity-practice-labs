@@ -8,6 +8,6 @@ Building technical foundations consistently as I transition into cybersecurity.
 
 ![Defensive Security Intro Badge](TryHackMe/images/defensive-security-badge.png)
 
-![Defensive Security Intro Badge](/TryHackMe/images/defensive-security-badge2.png)
+![Defensive Security Intro Badge](TryHackMe/images/defensive-security-badge2.png)
 
 *Screenshot of the TryHackMe Defensive Security Intro lab completion.*
