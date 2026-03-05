@@ -8,7 +8,7 @@ The **World Wide Web (WWW)** was introduced by **Tim Berners-Lee in 1989**, whic
 
 ### Internet Connecting Multiple Private Networks
 
-![Network Diagram](.TryHackMe/images/network-diagram.png)
+![Network Diagram](/TryHackMe/images/network-diagram.png)
 
 **Figure:** Illustration showing how multiple **private networks (Network #1, Network #2, and Network #3)** connect to the **public network (the Internet)** through routers. Each private network contains devices such as computers, servers and mobile devices that communicate internally, while the internet acts as the bridge that allows these separate networks to communicate with each other globally.
 
@@ -27,9 +27,9 @@ An IP address works like a digital address that allows devices to locate and com
  
   - ## IP Address
 
-![IP Address](./ip-address.png)
+![IP Address](/ip-address.png)
 
-*Example of IP Address (IPv4 and IPv6)*
+*Example of an IP Address (IPv4 and IPv6)*
  
   - ## IPv4 Address Structure
 
