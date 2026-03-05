@@ -87,5 +87,15 @@ Explanation
 - 0% packet loss confirms connectivity
 - Flag THM{I_PINGED_THE_SERVER}
 
+- <p>
+<img src="image.png" width="200" align="left">
+
+### 🟢 What is Networking? — Completed
+
+![Networking-Badge-Earned](/TryHackMe/images/networking-badge)
+
+*completed another room on their cyber security journey.*
+</p>
+
 Understanding these networking fundamentals provides a strong foundation for learning **cybersecurity**, as it helps explain how devices communicate, how they are identified and how attackers might attempt to exploit network systems.
 
