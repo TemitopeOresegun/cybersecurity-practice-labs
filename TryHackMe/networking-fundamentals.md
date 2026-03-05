@@ -85,8 +85,7 @@ Target → 8.8.8.8 (Google DNS)
 All packets were successfully received
 0% packet loss confirms connectivity
 
-Flag
-THM{I_PINGED_THE_SERVER}
+Flag THM{I_PINGED_THE_SERVER}
 
 Understanding these networking fundamentals provides a strong foundation for learning **cybersecurity**, as it helps explain how devices communicate, how they are identified and how attackers might attempt to exploit network systems.
 
