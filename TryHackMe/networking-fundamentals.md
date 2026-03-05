@@ -75,6 +75,8 @@ To verify that the machine has internet access, we send ICMP packets to Google's
 ping -c 4 8.8.8.8
 
 Output
+[ping-google-dns](/TryHackMe/images/ping-google-dns.png)
+
 <p align="center"> <img src="/TryHackMe/images/ping-google-dns.png" alt="Ping 8.8.8.8 result" width="900"> </p>
 
 Explanation
