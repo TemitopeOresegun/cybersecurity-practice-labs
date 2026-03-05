@@ -78,8 +78,6 @@ Output
 
 ![ping-google-dns](/TryHackMe/images/ping-google-dns.png)
 
-<p align="center"> <img src="/TryHackMe/images/ping-google-dns.png" alt="Ping 8.8.8.8 result" width="900"> </p>
-
 Explanation
 
 - The ping command sends ICMP echo requests to the target host.
