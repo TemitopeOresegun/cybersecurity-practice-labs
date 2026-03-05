@@ -87,9 +87,6 @@ Explanation
 - 0% packet loss confirms connectivity
 - Flag THM{I_PINGED_THE_SERVER}
 
-- <p>
-<img src="image.png" width="200" align="left">
-
 ### 🟢 What is Networking? — Completed
 
 ![Networking-Badge-Earned](/TryHackMe/images/networking-badge.png)
