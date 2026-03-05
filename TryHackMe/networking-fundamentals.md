@@ -72,7 +72,6 @@ To verify that the machine has internet access, we send ICMP packets to Google's
 
 ### Command
 
-```bash
 ping -c 4 8.8.8.8
 
 Output
