@@ -27,7 +27,7 @@ An IP address works like a digital address that allows devices to locate and com
  
   - ## IP Address
 
-![IP Address](/ip-address.png)
+![IP Address](/TryHackMe/ip-address.png)
 
 *Example of an IP Address (IPv4 and IPv6)*
  
