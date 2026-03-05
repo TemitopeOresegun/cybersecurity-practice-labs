@@ -92,7 +92,7 @@ Explanation
 
 ### 🟢 What is Networking? — Completed
 
-![Networking-Badge-Earned](/TryHackMe/images/networking-badge)
+![Networking-Badge-Earned](/TryHackMe/images/networking-badge.png)
 
 *completed another room on their cyber security journey.*
 </p>
