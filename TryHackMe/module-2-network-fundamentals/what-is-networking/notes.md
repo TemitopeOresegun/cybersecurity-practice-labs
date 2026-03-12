@@ -10,7 +10,7 @@ The **World Wide Web (WWW)**, introduced by **Tim Berners-Lee in 1989**, made th
 
 ## Internet Connecting Multiple Private Networks
 
-![Network Diagram](/TryHackMe/images/network-diagram.png)
+![Network Diagram](screenshots/network-diagram.png)
 
 **Explanation:**  
 Multiple private networks (Network #1, Network #2, Network #3) connect to the internet through routers. Each private network contains devices like computers, servers, and mobile devices. The internet acts as a bridge allowing communication between these networks globally.
@@ -30,7 +30,7 @@ Devices are identified using **IP addresses** and **MAC addresses**.
 
 #### IPv4 Example
 
-![IPv4 Address Structure](/TryHackMe/images/ipv4-octets.png)  
+![IPv4 Address Structure](screenshots/ipv4-octets.png)  
 
 - Four octets (0–255)  
 - Example: 192.168.1.1  
@@ -45,7 +45,7 @@ Devices are identified using **IP addresses** and **MAC addresses**.
 
 #### MAC Address Structure
 
-![MAC Address Structure](/TryHackMe/images/mac-address-structure.png)  
+![MAC Address Structure](screenshots/mac-address-structure.png)  
 
 **MAC Spoofing:**  
 - MAC addresses can be **spoofed** to bypass network restrictions.  
