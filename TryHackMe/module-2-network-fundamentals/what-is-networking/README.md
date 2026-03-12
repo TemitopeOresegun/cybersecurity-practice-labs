@@ -17,6 +17,6 @@ Successfully completed the lab and captured the flag:
 **Flag:** `THM{I_PINGED_THE_SERVER}` ✅
 
 ## Badge
-![Networking Badge](screenshots/networking-badge.png)
+![Networking Badge](screenshots/networking-badge3.png)
 
 *Screenshot showing completion of the "What is Networking?" lab.*
