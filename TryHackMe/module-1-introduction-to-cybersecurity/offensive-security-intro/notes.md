@@ -21,6 +21,12 @@ Steps performed during the exercise:
 - Accessed and exploited the admin functionality
 - Successfully transferred money into the simulated bank account
 
+#### Dirb Directory Enumeration
+
+![Dirb scan revealing hidden /admin directory](screenshots/dirb-scan.png)
+
+*Using dirb to enumerate hidden directories in the fake bank web application.*
+
 ## Lab Completion
 Successfully completed the lab and Flag captured successfully ✅
 
