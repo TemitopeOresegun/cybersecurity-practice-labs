@@ -84,7 +84,7 @@ ARP is responsible for mapping **IP addresses to MAC addresses**, allowing devic
 
 #### ARP Demonstration
 ![ARP Example](screenshots/arp-demo.png)  
-*Instance image showing ARP request, reply and cache storage.*
+*Instance image showing ARP request and reply.*
 
 ---
 
