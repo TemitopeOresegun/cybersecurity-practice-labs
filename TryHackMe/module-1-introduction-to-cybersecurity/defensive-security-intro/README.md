@@ -16,6 +16,6 @@ Earned the lab completion badge:
 **Badge:** Defensive Security Intro ✅
 
 ## Screenshot
-![Defensive Security Intro Badge](screenshots/defensive-security-badge.png)
+![Defensive Security Intro Badge](screenshots/defensive-security-badge2.png)
 
 *Screenshot showing completion of the Defensive Security Intro lab.*
