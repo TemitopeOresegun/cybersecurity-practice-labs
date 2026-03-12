@@ -1,23 +1,32 @@
-# Offensive Security Intro Notes
+# Offensive Security Intro - TryHackMe
 
 ## Overview
-Offensive security focuses on **identifying and exploiting vulnerabilities** in systems to improve security. Ethical hacking allows organizations to find weaknesses before malicious attackers can.
+Completed an Offensive Security lab on TryHackMe.  
+This lab focused on practical attack techniques used in penetration testing and how vulnerabilities in web applications can be discovered and exploited.
 
-## Key Concepts
-- **Penetration Testing**: Simulated attacks to discover vulnerabilities
-- **Vulnerabilities**: Weaknesses in systems that can be exploited
-- **Attack Surface**: The sum of all points where an attacker can try to enter
-- **Ethical Hacking Principles**:
-  - Obtain permission before testing
-  - Report all findings responsibly
-  - Respect system integrity
+## Key Concepts Learned
+- Introduction to Offensive Security principles
+- Enumeration techniques for discovering hidden resources
+- Using the `dirb` tool to find hidden directories and pages
+- Identifying sensitive information such as account numbers
+- Exploiting a vulnerable admin page in a simulated banking environment
 
-## Tools / Techniques Learned
-- Enumeration of services
-- Scanning for vulnerabilities
-- Capturing flags in lab exercises
+## Lab Activity
+During the lab, a fake bank application was presented. The objective was to investigate the system and exploit weaknesses within the web application.
 
-## Takeaways
-- Offensive security is proactive
-- Understanding attacks helps improve defenses
-- Lab practice reinforces theory
+Steps performed during the exercise:
+- Identified the **target bank account number** within the application
+- Used the `dirb` command to enumerate hidden directories
+- Discovered a hidden **/admin** page
+- Accessed and exploited the admin functionality
+- Successfully transferred money into the simulated bank account
+
+## Lab Completion
+Successfully completed the lab and captured the flag:
+
+**Flag:** `Bank-Hacked` ✅
+
+## Badge
+![Offensive Security Badge](screenshots/offensive-security-badge.png)
+
+*Screenshot showing completion of the Offensive Security lab.*
