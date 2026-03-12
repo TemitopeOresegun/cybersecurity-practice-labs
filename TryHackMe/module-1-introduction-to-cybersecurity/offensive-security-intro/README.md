@@ -15,6 +15,6 @@ Successfully completed the challenge and captured the flag:
 - Importance of penetration testing
 
 ## Screenshot
-![Offensive Security Intro Badge](/TryHackMe/images/offensive-security-badge.png)
+![Offensive Security Intro Badge](screenshots/offensive-security-badge.png)
 
 *Screenshot showing completion of the TryHackMe Offensive Security Intro lab.*
