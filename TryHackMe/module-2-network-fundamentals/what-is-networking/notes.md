@@ -62,6 +62,8 @@ Devices are identified using **IP addresses** and **MAC addresses**.
 ```bash
 ping -c 4 8.8.8.8
 
+```
+
 Explanation:
 
 -c 4 → Send 4 packets
