@@ -12,9 +12,7 @@ This lab introduces the fundamentals of networking and why it is essential for c
 - Practical exploration of MAC spoofing
 
 ## Lab Completion
-Successfully completed the lab and captured the flag:
-
-**Flag:** `THM{I_PINGED_THE_SERVER}` ✅
+Successfully completed the lab and Flag captured successfully ✅
 
 ## Badge
 ![Networking Badge](screenshots/networking-badge3.png)
