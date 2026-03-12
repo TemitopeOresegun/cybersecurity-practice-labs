@@ -70,6 +70,10 @@ Explanation:
 
 Target → Google DNS 8.8.8.8
 
+Output
+
+![ping-google-dns](screenshots/ping-google-dns.png)
+
 All packets received → 0% packet loss → Connectivity confirmed
 
 Flag Captured: THM{I_PINGED_THE_SERVER} ✅
