@@ -1,14 +1,13 @@
-# Defensive Security Intro - TryHackMe
+# Defensive Security Lab - TryHackMe
 
 ## Overview
-Completed the **Defensive Security Intro** lab.  
-Learned how Security Operations Center (SOC) teams monitor, detect and respond to threats, building foundational defensive skills.
+Completed a Defensive Security lab on TryHackMe. Learned how Blue Teams protect networks by monitoring activity and responding to threats.
 
-## Key Concepts Learned
-- Role of SOC teams in cybersecurity
-- Threat monitoring and detection
-- Incident response fundamentals
-- Importance of proactive defense
+## Skills Learned
+- Security monitoring
+- Threat detection
+- Incident response
+- Blocking suspicious IP activity
 
 ## Lab Completion
 Successfully completed the lab and Flag captured successfully ✅
