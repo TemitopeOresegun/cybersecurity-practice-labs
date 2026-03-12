@@ -22,11 +22,10 @@ Steps performed during the exercise:
 - Successfully transferred money into the simulated bank account
 
 ## Lab Completion
-Successfully completed the lab and captured the flag:
+Successfully completed the lab and Flag captured successfully ✅
 
-**Flag:** `Bank-Hacked` ✅
 
 ## Badge
-![Offensive Security Badge](screenshots/offensive-security-badge.png)
+![Offensive Security Badge](screenshots/offensive-security-badge2.png)
 
 *Screenshot showing completion of the Offensive Security lab.*
