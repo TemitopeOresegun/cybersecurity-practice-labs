@@ -61,11 +61,19 @@ Analyzing security incidents to understand how attacks occurred and how to preve
 ## Lab Screenshot
 ![Defensive Security Lab](screenshots/defensive-security-lab.png)
 
+---
+
 ![Defensive Security Lab](screenshots/defensive-security-lab2.png)
+
+---
 
 ![Defensive Security Lab](screenshots/defensive-security-lab3.png)
 
+---
+
 ![Defensive Security Lab](screenshots/defensive-security-lab4.png)
+
+---
 
 *Monitoring the security dashboard and blocking a suspicious attacker IP during the TryHackMe defensive security lab.*
 
