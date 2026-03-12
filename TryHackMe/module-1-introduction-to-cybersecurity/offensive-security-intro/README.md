@@ -12,4 +12,4 @@ Completed an Offensive Security lab involving a simulated fake bank application.
 - Exploiting insecure admin pages
 
 ## Screenshot
-![Lab Completion](screenshots/offensive-security-badge.png)
+![Lab Completion](screenshots/offensive-security-badge2.png)
