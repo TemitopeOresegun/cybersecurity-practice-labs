@@ -57,11 +57,11 @@ Devices are identified using **IP addresses** and **MAC addresses**.
 - MAC addresses can be **spoofed** to bypass network restrictions.  
 - Lab exercise demonstrated how spoofing can potentially gain access to a network.
 
-## MAC Spoofed in lab
+## Lab exercise
 
 ![TryHackMe Flag](screenshots/thm-you-got-on-tryhackme.png)
 
-This confirms successful completion of the task in the TryHackMe lab.
+This confirms successful completion of the exercise in the TryHackMe lab.
 
 ---
 
