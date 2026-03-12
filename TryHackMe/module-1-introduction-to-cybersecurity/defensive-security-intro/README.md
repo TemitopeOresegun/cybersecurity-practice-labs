@@ -2,7 +2,7 @@
 
 ## Overview
 Completed the **Defensive Security Intro** lab.  
-Learned how Security Operations Center (SOC) teams monitor, detect, and respond to threats, building foundational defensive skills.
+Learned how Security Operations Center (SOC) teams monitor, detect and respond to threats, building foundational defensive skills.
 
 ## Key Concepts Learned
 - Role of SOC teams in cybersecurity
@@ -11,9 +11,7 @@ Learned how Security Operations Center (SOC) teams monitor, detect, and respond 
 - Importance of proactive defense
 
 ## Lab Completion
-Earned the lab completion badge:
-
-**Badge:** Defensive Security Intro ✅
+Successfully completed the lab and Flag captured successfully ✅
 
 ## Screenshot
 ![Defensive Security Intro Badge](screenshots/defensive-security-badge2.png)
