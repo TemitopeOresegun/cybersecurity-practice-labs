@@ -1,19 +1,15 @@
-# Offensive Security Intro - TryHackMe
+# Offensive Security Lab - TryHackMe
 
 ## Overview
-This lab introduces the basics of **offensive security** and ethical hacking.  
-Focus is on understanding how attackers identify vulnerabilities and exploit them to gain access to systems.
+Completed an Offensive Security lab involving a simulated fake bank application.
 
-## Key Concepts Learned
-- Introduction to offensive security
-- Penetration testing basics
-- Ethical hacking principles
-- Understanding vulnerabilities and attack vectors
+## Tools Used
+- dirb
 
-## Lab Completion
-Successfully completed the lab and Flag captured successfully ✅
+## Skills Learned
+- Web enumeration
+- Discovering hidden directories
+- Exploiting insecure admin pages
 
 ## Screenshot
-![Offensive Security Intro Badge](screenshots/offensive-security-badge.png)
-
-*Screenshot showing completion of the Offensive Security Intro lab.*
+![Lab Completion](screenshots/offensive-security-badge.png)
