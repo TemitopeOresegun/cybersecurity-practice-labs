@@ -1,20 +1,21 @@
 # Offensive Security Intro - TryHackMe
 
 ## Overview
-This lab introduces the basics of offensive security and ethical hacking. The goal is to understand how attackers identify vulnerabilities and exploit them to gain access to systems.
-
-## Lab Completion
-Successfully completed the challenge and captured the flag:
-
-**Flag:** `BANK-HACKED` ✅
+This lab introduces the basics of **offensive security** and ethical hacking.  
+Focus is on understanding how attackers identify vulnerabilities and exploit them to gain access to systems.
 
 ## Key Concepts Learned
 - Introduction to offensive security
-- Understanding how attackers exploit vulnerabilities
-- Basics of ethical hacking
-- Importance of penetration testing
+- Penetration testing basics
+- Ethical hacking principles
+- Understanding vulnerabilities and attack vectors
+
+## Lab Completion
+Successfully completed the lab and captured the flag:
+
+**Flag:** `BANK-HACKED` ✅
 
 ## Screenshot
 ![Offensive Security Intro Badge](screenshots/offensive-security-badge.png)
 
-*Screenshot showing completion of the TryHackMe Offensive Security Intro lab.*
+*Screenshot showing completion of the Offensive Security Intro lab.*
