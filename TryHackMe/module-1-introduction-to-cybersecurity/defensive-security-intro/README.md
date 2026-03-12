@@ -17,6 +17,6 @@ Successfully completed the lab and earned the badge:
 **Badge:** Defensive Security Intro ✅
 
 ## Screenshot
-![Defensive Security Intro Badge](screenshots/defensive-security-badge.png)
+![Defensive Security Intro Badge](screenshots/defensive-security-badge2.png)
 
 *Screenshot showing completion of the TryHackMe Defensive Security Intro lab.*
