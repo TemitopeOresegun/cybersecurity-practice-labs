@@ -11,9 +11,7 @@ Focus is on understanding how attackers identify vulnerabilities and exploit the
 - Understanding vulnerabilities and attack vectors
 
 ## Lab Completion
-Successfully completed the lab and captured the flag:
-
-**Flag:** `BANK-HACKED` ✅
+Successfully completed the lab and Flag captured successfully ✅
 
 ## Screenshot
 ![Offensive Security Intro Badge](screenshots/offensive-security-badge.png)
