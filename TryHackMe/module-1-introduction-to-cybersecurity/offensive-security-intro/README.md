@@ -11,5 +11,12 @@ Completed an Offensive Security lab involving a simulated fake bank application.
 - Discovering hidden directories
 - Exploiting insecure admin pages
 
+## Lab Completion
+Successfully completed the lab and Flag captured successfully ✅
+
+
 ## Screenshot
-![Lab Completion](screenshots/offensive-security-badge2.png)
+![Offensive Security Badge](screenshots/offensive-security-badge2.png)
+
+*Screenshot showing completion of the Offensive Security lab.*
+
