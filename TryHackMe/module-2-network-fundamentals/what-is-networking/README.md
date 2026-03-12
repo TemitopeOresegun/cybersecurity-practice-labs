@@ -1,22 +1,22 @@
-
 # What is Networking? - TryHackMe
 
 ## Overview
-Completed the **What is Networking?** lab.  
-Introduces the fundamentals of computer networking and why networking is essential in cybersecurity.
+Completed the "What is Networking?" lab on TryHackMe.  
+This lab introduces the fundamentals of networking and why it is essential for cybersecurity.
 
 ## Key Concepts Learned
-- Basics of networking and communication
-- Types of networks (LAN, WAN, etc.)
-- How devices connect and communicate
-- Role of networking in cybersecurity operations
+- Definition of a network and its role in connecting devices
+- IP addresses (private and public) and MAC addresses
+- Basic network diagnostic tools like `ping`
+- Understanding how devices communicate and are identified
+- Practical exploration of MAC spoofing
 
 ## Lab Completion
-Lab successfully completed and badge earned:
+Successfully completed the lab and captured the flag:
 
-**Badge:** What is Networking ✅
+**Flag:** `THM{I_PINGED_THE_SERVER}` ✅
 
-## Screenshot
-![Networking Badge](screenshots/networking-badge3.png)
+## Badge
+![Networking Badge](screenshots/networking-badge.png)
 
-*Screenshot showing lab completion.*
+*Screenshot showing completion of the "What is Networking?" lab.*
