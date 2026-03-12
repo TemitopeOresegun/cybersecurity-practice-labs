@@ -11,7 +11,7 @@ A **network topology** defines the layout and design of a network, including how
 
 ### 1. Star Topology
 
-![star topology](screenshots/star-topology)
+![star topology](screenshots/star-topology.png)
 
 - All devices are connected to a **central switch or hub**.  
 - **Vulnerabilities:**  
@@ -20,7 +20,7 @@ A **network topology** defines the layout and design of a network, including how
 
 ### 2. Bus Topology
 
-![bus topology](screenshots/bus-topology)
+![bus topology](screenshots/bus-topology.png)
 
 - Devices are connected along a **single backbone cable**.  
 - **Vulnerabilities:**  
@@ -29,7 +29,7 @@ A **network topology** defines the layout and design of a network, including how
 
 ### 3. Ring Topology
 
-![ring topology](screenshots/ring-topology)
+![ring topology](screenshots/ring-topology.png)
 
 - Devices are connected in a **circular fashion**, each device connected to two neighbors.  
 - **Vulnerabilities:**  
@@ -40,7 +40,7 @@ A **network topology** defines the layout and design of a network, including how
 
 ## Networking Devices
 
-![switch](screenshots/switch)
+![switch](screenshots/switch.png)
 
 ### Switch
 - Connects multiple devices on the same LAN.
@@ -48,7 +48,7 @@ A **network topology** defines the layout and design of a network, including how
 
 ---
 
-![router](screenshots/router)
+![router](screenshots/router.png)
 
 ### Router
 - Connects different networks (LANs or WANs).
@@ -58,7 +58,7 @@ A **network topology** defines the layout and design of a network, including how
 
 ## Subnetting
 
-![subnetting](screenshots/subnetting)
+![subnetting](screenshots/subnetting.png)
 
 **Subnetting** is the process of dividing a large network into smaller, manageable sub-networks (subnets).  
 - Uses **subnet masks** represented as 32-bit numbers (four bytes: 0–255).  
