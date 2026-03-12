@@ -31,7 +31,7 @@ Steps performed during the exercise:
 Successfully completed the lab and Flag captured successfully ✅
 
 
-## Badge
+## Screenshot
 ![Offensive Security Badge](screenshots/offensive-security-badge2.png)
 
 *Screenshot showing completion of the Offensive Security lab.*
