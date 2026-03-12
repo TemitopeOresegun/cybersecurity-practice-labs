@@ -59,7 +59,7 @@ Devices are identified using **IP addresses** and **MAC addresses**.
 
 ## MAC Spoofed in lab
 
-![TryHackMe Flag](images/thm-you-got-on-tryhackme.png)
+![TryHackMe Flag](screenshots/thm-you-got-on-tryhackme.png)
 
 This confirms successful completion of the task in the TryHackMe lab.
 
