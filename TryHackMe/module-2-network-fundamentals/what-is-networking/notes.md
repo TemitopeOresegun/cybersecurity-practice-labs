@@ -64,15 +64,15 @@ ping -c 4 8.8.8.8
 
 ```
 
-Explanation:
+## Output
+
+![ping-google-dns](screenshots/ping-google-dns.png)
+
+## Explanation:
 
 -c 4 → Send 4 packets
 
 Target → Google DNS 8.8.8.8
-
-Output
-
-![ping-google-dns](screenshots/ping-google-dns.png)
 
 All packets received → 0% packet loss → Connectivity confirmed
 
