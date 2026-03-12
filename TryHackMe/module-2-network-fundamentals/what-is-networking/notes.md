@@ -13,7 +13,7 @@ The **World Wide Web (WWW)**, introduced by **Tim Berners-Lee in 1989**, made th
 ![Network Diagram](screenshots/network-diagram.png)
 
 **Explanation:**  
-Multiple private networks (Network #1, Network #2, Network #3) connect to the internet through routers. Each private network contains devices like computers, servers, and mobile devices. The internet acts as a bridge allowing communication between these networks globally.
+Multiple private networks (Network #1, Network #2, Network #3) connect to the internet through routers. Each private network contains devices like computers, servers and mobile devices. The internet acts as a bridge allowing communication between these networks globally.
 
 ---
 
@@ -28,7 +28,13 @@ Devices are identified using **IP addresses** and **MAC addresses**.
 - **Public IP:** Assigned by an ISP for internet communication.  
 - **Versions:** IPv4 and IPv6.
 
-#### IPv4 Example
+#### IP Address
+
+![IP Address](screenshots/ip-address.png)
+
+*Example of an IP Address (IPv4 and IPv6)*
+
+#### IPv4 Address Structure
 
 ![IPv4 Address Structure](screenshots/ipv4-octets.png)  
 
