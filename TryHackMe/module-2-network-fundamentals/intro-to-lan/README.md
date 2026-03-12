@@ -2,19 +2,17 @@
 # Intro to LAN - TryHackMe
 
 ## Overview
-Completed the **Intro to LAN** lab.  
-Learned about Local Area Networks (LANs), common network devices and communication within a network.
+Completed a lab covering **LAN topologies**, networking devices, **subnetting** and protocols like **ARP** and **DHCP**. Learned how devices communicate and how networks are structured.
 
-## Key Concepts Learned
-- Understanding LANs and their structure
-- Network devices: routers, switches, hubs, access points
-- How devices communicate within a LAN
-- Basics of network topology
+## Skills Learned
+- LAN topologies: Star, Bus, Ring  
+- Networking devices: Switch, Router  
+- Subnetting and IP address allocation  
+- ARP for MAC-IP mapping  
+- DHCP for dynamic IP assignment
 
 ## Lab Completion
-Lab successfully completed and badge earned:
-
-**Badge:** Intro to LAN ✅
+Successfully completed the lab and Flag captured successfully ✅
 
 ## Screenshot
 ![Intro to LAN Badge](screenshots/intro-to-lan-badge.png)
