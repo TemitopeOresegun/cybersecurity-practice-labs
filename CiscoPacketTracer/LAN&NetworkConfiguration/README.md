@@ -28,7 +28,6 @@ This repository documents hands-on exercises performed in **Cisco Packet Tracer*
 
 - **Cabling:**
   - **Copper straight-through:** Connect PCs to switch
-  - **Copper crossover:** Connect switch-to-switch or PC-to-PC where required
 
 ---
 
@@ -36,7 +35,7 @@ This repository documents hands-on exercises performed in **Cisco Packet Tracer*
 
 - Devices were connected using **manual and automatic cabling**.
 - Observed the importance of **correct cable selection** for reliable connectivity.
-- **Key Learning:** Straight-through vs. crossover cabling reinforces proper network design practices.
+- **Key Learning:** Straight-through cabling reinforces proper network design practice.
 
 ---
 
