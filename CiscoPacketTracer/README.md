@@ -1,6 +1,5 @@
 # Cisco Packet Tracer Exercises
 
-![Cisco Packet Tracer Logo](https://share.google/7cdn8evTmNDQTrwbp)
 
 ## About This Repository
 This repository contains my **Cisco Packet Tracer simulations and exercises** for hands-on learning and personal growth in networking.  
