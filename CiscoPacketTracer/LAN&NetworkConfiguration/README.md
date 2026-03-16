@@ -81,6 +81,12 @@ This repository documents hands-on exercises performed in **Cisco Packet Tracer*
 
 ---
 
+# 📸 Screenshot
+
+![Network Topology](screenshots/network-topology.png)
+
+---
+
 ## 💡 Key Takeaways
 
 - Hands-on network configuration is critical for mastering real-world networking concepts.
