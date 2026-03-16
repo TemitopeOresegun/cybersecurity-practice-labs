@@ -15,7 +15,8 @@ This portfolio reflects my commitment to building practical skills, understandin
 
 ## Platforms
 
-- TryHackMe 
+- TryHackMe
+- Cisco Packet Tracer
 - (Planning to explore others like Hack The Box and CyberSecLabs)
 
 ---
