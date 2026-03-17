@@ -46,5 +46,5 @@ Connectivity was verified using the `ping` command:
 - Device-to-device communication using ICMP (ping)
 
 ## 📷 Screenshot
-![Simple LAN Setup](screenshots/Simple-LAN-Setup.png)
+![Simple LAN Setup](screenshots/Simple-LAN.png)
 
