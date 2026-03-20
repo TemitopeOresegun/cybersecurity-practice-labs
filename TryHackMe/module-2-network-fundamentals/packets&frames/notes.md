@@ -186,7 +186,7 @@ The **UDP header** is simpler than TCP, with minimal overhead.
 
 ## 🧪 Practical: Ports & Capture the Flag
 
-[ports practical](screenshots/ports.png)
+[Port Practical](screenshots/port.png)
 
 *Successfully captured the flag*
 
