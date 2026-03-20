@@ -51,7 +51,7 @@ The lab also covered the **TCP three-way handshake**, protocol headers, and prac
 ## Badge
 ![packets&frames](screenshots/packets&frames.png)
 
-*Screenshot showing completion of the "What is Networking?" lab.*
+*Screenshot showing completion of the Packets & Frame lab.*
 
 ---
 
