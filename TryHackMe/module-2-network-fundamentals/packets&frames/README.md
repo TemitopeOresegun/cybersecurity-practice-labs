@@ -1,5 +1,5 @@
 
-# 🌐 TCP & UDP Fundamentals – TryHackMe Lab
+# 🌐 Packets & Frames – TryHackMe Lab
 
 ## 📌 Overview
 Completed a lab focused on **Transport Layer protocols**, specifically **TCP** and **UDP**, including how data is transmitted using packets and frames.
@@ -48,11 +48,11 @@ The lab also covered the **TCP three-way handshake**, protocol headers, and prac
 
 ---
 
-## 📸 Screenshots
-![Handshake Capture](./screenshots/handshake.png)  
-![Ports Practical](./screenshots/ports.png)
+## Badge
+![packets&frames](screenshots/packets&frames.png)
 
-#Screenshot showing lab completion.
+*Screenshot showing completion of the "What is Networking?" lab.*
+
 ---
 
 ## 🚀 Key Takeaways
