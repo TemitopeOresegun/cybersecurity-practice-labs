@@ -204,6 +204,6 @@ This lab provided a deep understanding of:
 
 💡 These concepts are essential for:
 - Network troubleshooting  
-- Packet analysis (Wireshark)  
+- Packet analysis 
 - Penetration testing  
 - Cybersecurity fundamentals  
