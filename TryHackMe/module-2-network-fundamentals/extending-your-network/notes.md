@@ -175,7 +175,7 @@ A **Virtual Private Network (VPN)** enables secure communication over untrusted 
 - All exercises finished successfully  
 - Flags captured ✅
 
-![Extending Your Network Badge](screenshots/extending-your-network.png)
+![Extending Your Network Badge](screenshots/extending-network-badge.png)
 
 ![Networking Nerd Badge](screenshots/networking-nerd-badge.png)
 
