@@ -48,7 +48,7 @@ Understanding DNS is essential for:
 
 ## 📸 Screenshots
 
-![DNS In Detail](screenshots/dns-in-detail.png)
+![DNS In Detail](screenshots/dns-in-details.png)
 
 *Screenshots of lab completion*
 
