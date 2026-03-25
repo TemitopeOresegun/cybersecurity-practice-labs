@@ -115,7 +115,7 @@ Identifying insecure HTTP usage
 ---
 
 ### 🔹 Practical Lab Completion
-![Lab Completion](screenshots/http-in-detail.png)
+![Lab Completion](screenshots/http-in-detail-badge.png)
 
 
 ## 🚀 Why This Matters
