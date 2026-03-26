@@ -21,7 +21,7 @@ This project explores the fundamentals of how websites function, focusing on **f
 - Inserted images using `<img>` tag  
 
 📸  
-![HTML Practical](screenshots/html-practical.png)
+![HTML Practical](screenshots/html-code.png)
 
 ---
 
@@ -39,7 +39,7 @@ This project explores the fundamentals of how websites function, focusing on **f
 - Demonstrated risks of improper data handling  
 
 📸  
-![Sensitive Data](screenshots/data-exposure-pratical.png)
+![Sensitive Data](screenshots/data-exposure-practical.png)
 
 ---
 
@@ -48,7 +48,7 @@ This project explores the fundamentals of how websites function, focusing on **f
 - Rendered clickable link on the page  
 
 📸  
-![HTML Injection](screenshots/html-injection-pratical.png)
+![HTML Injection](screenshots/html-injection-practical.png)
 
 ---
 
