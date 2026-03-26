@@ -160,7 +160,7 @@ HTML Injection occurs when:
 
 ## ✅ Payload Used:
 
-/<a href="http://tryhackme.com">http://tryhackme.com</a>/
+</a href="http://tryhackme.com">http://tryhackme.com</a/>
 
 ---
 
