@@ -75,8 +75,8 @@ A basic HTML document includes:
 ---
 
 ## Common Tags
-- <button> → Button element
-- <img> → Image
+- <button/> → Button element
+- <img/> → Image
 - src → Image source attribute
 
 ---
