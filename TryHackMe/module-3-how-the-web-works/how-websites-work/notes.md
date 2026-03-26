@@ -160,7 +160,7 @@ HTML Injection occurs when:
 
 ## ✅ Payload Used:
 
-<a href="http://tryhackme.com">http://tryhackme.com</a>
+/<a href="http://tryhackme.com">http://tryhackme.com</a>/
 
 ---
 
@@ -186,7 +186,7 @@ Input sanitization is the process of:
 ## 🔐 Importance:
 - Prevents HTML Injection
 - Improves application security
--  
+
 ---
 
 ## 🧠 Key Takeaways
