@@ -75,8 +75,8 @@ A basic HTML document includes:
 ---
 
 ## Common Tags
-- '<button>' → Button element
-- '<img>' → Image
+- `<button>` → Button element
+- `<img>` → Image
 - src → Image source attribute
 
 ---
@@ -160,7 +160,7 @@ HTML Injection occurs when:
 
 ## ✅ Payload Used:
 
-'<a href="http://tryhackme.com">http://tryhackme.com</a'
+` <a href="http://tryhackme.com">http://tryhackme.com</a `
 
 ---
 
