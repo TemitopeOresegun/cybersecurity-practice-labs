@@ -104,8 +104,11 @@ JavaScript makes web pages interactive and dynamic.
 ## 🧪 Practical: JavaScript
 
 #### 📌 Task:
-Display text: "Hack the Planet"
-Create a button: "Click Me"
+
+- Display text: "Hack the Planet"
+- Create a button: "Click Me"
+
+---
 
 ## 📸 Screenshot
 ![JavaScript Practical](screenshots/javascript.png)
@@ -123,14 +126,15 @@ Sensitive data exposure occurs when:
 ## 🧪 Practical: Sensitive Data Exposure
 
 #### 📌 Task:
-Enter incorrect login credentials
-View page source
-Identify exposed credentials
+- Enter incorrect login credentials
+- View page source
+- Identify exposed credentials
 
 ---
 ## 🔍 Observation:
-Correct login details were visible in the source code
-Used those details to log in successfully
+
+- Correct login details were visible in the source code
+- Used those details to log in successfully
 
 ---
 ## 📸 Screenshot
@@ -150,9 +154,11 @@ HTML Injection occurs when:
 ## 🧪 Practical: HTML Injection
 #### 📌 Task:
 
-Inject HTML into an input field
+- Inject HTML into an input field
 
-✅ Payload Used:
+---
+
+## ✅ Payload Used:
 
 <a href="http://tryhackme.com">http://tryhackme.com</a>
 
