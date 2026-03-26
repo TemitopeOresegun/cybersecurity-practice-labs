@@ -84,8 +84,8 @@ A basic HTML document includes:
 ## 🧪 Practical: HTML Fix & Image Insertion
 
 #### 📌 Task:
-Fix incomplete HTML structure
-Insert an image correctly
+- Fix incomplete HTML structure
+- Insert an image correctly
 
 ## 📸 Screenshot
 ![HTML Practical](screenshots/html-code.png)
@@ -96,9 +96,9 @@ Insert an image correctly
 
 JavaScript makes web pages interactive and dynamic.
 
-HTML → Structure
-CSS → Styling
-JavaScript → Functionality
+- HTML → Structure
+- CSS → Styling
+- JavaScript → Functionality
 
 ---
 ## 🧪 Practical: JavaScript
