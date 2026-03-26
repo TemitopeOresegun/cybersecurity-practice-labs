@@ -180,7 +180,7 @@ Input sanitization is the process of:
 ## 🔐 Importance:
 - Prevents HTML Injection
 - Improves application security
-- 
+-  
 ---
 
 ## 🧠 Key Takeaways
