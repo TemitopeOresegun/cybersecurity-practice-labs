@@ -72,5 +72,5 @@ This lab builds a strong foundation in:
 
 ---
 
-## ✅ Status
-✔️ Completed
+## 🔹 Practical Lab Completion
+![How Websites Work](screenshots/how-websites-work-badge.png)
