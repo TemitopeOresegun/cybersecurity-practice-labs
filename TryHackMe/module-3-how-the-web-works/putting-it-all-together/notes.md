@@ -149,8 +149,17 @@ Arrange the correct order of how a browser requests a website.
 
 ### 📸 Screenshot
 ![Practical Lab](screenshots/practical.png)
+
+---
+
 ![Arranged Steps](screenshots/part-1.png)
+
+---
+
 ![Arranged Steps](screenshots/part-2.png)
+
+---
+
 ![Arranged Steps](screenshots/part-3.png)
 
 ---
