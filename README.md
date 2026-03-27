@@ -1,24 +1,31 @@
-# Cybersecurity Practice Labs
+# 🛡️ Cybersecurity Practice Labs
 
-Welcome to my cybersecurity practice repository, where I document my learning journey through hands-on labs and study notes.
+## 📌 Overview
+Welcome to my cybersecurity practice repository, where I document my hands-on learning through labs and study notes.
 
-I’m currently exploring various areas within cybersecurity, including defensive security, network fundamentals and system hardening, primarily using platforms like TryHackMe.
-
-This portfolio reflects my commitment to building practical skills, understanding core concepts and preparing myself for future career opportunities in cybersecurity.
-
-## Current Focus Areas
-
-- Defensive security basics  
-- Log analysis and monitoring  
-- Network security fundamentals  
-- Linux and Windows system hardening  
-
-## Platforms
-
-- TryHackMe
-- Cisco Packet Tracer
-- (Planning to explore others like Hack The Box and CyberSecLabs)
+This portfolio reflects my commitment to building practical skills, understanding core concepts, and preparing for a career in cybersecurity.
 
 ---
 
-Feel free to explore my lab write-ups and track my progress as I continue developing my skills.
+## 🎯 Current Focus Areas
+- Defensive security fundamentals  
+- Log analysis and monitoring  
+- Network security basics  
+- Linux and Windows system hardening  
+
+---
+
+## 🧪 Platforms & Tools
+- TryHackMe  
+- Cisco Packet Tracer  
+- *(Planned: Hack The Box, CyberSecLabs)*  
+
+---
+
+## 🚀 About This Repository
+This repository contains:
+- Hands-on lab write-ups  
+- Technical notes  
+- Practical exercises  
+
+Feel free to explore my work and follow my progress as I continue developing my cybersecurity skills.
