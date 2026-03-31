@@ -1,102 +1,138 @@
 
-# 🖥️ Inside a Computer System – TryHackMe Lab Notes
+# 🖥️ Inside a Computer System – Notes (TryHackMe)
 
 ## 📌 Overview
-In this lab, we explored the **core components of a computer system** and how a computer **boots up**. These concepts are foundational and will be important as we progress into cybersecurity topics.
+These notes cover the **core components of a computer system** and the **boot process**, which are foundational concepts for understanding how systems operate and how they can be attacked in cybersecurity.
 
 ---
 
 ## 🧩 Core Components of a Computer System
 
-### 1. **CPU (Central Processing Unit)**
-- Known as the **brain of the computer**
-- Executes instructions from programs
-- Performs calculations and decision-making tasks
+### 1. CPU (Central Processing Unit)
+- The **brain** of the computer  
+- Executes instructions from programs  
+- Performs calculations and logical operations
 
 ---
 
-### 2. **RAM (Random Access Memory)**
-- Temporary memory used while the system is running
-- Stores data that the CPU needs quickly
-- Data is lost when the system is powered off (volatile memory)
+### 2. RAM (Random Access Memory)
+- Temporary (volatile) memory  
+- Stores data currently being used by the CPU  
+- Data is lost when power is turned off  
 
 ---
 
-### 3. **Storage (HDD/SSD)**
-- Permanent storage for the operating system, files, and applications
-- Retains data even when the computer is turned off (non-volatile)
-- Examples: Hard Disk Drive (HDD), Solid State Drive (SSD)
+### 3. Storage (HDD / SSD)
+- Permanent (non-volatile) storage  
+- Stores:
+  - Operating system  
+  - Applications  
+  - User files  
 
 ---
 
-### 4. **Motherboard**
-- The main circuit board that connects all components
-- Allows communication between CPU, RAM, storage, and other hardware
+### 4. Motherboard
+- Main circuit board of the computer  
+- Connects all hardware components  
+- Enables communication between components  
 
 ---
 
-### 5. **Power Supply Unit (PSU)**
-- Converts electricity from the wall into usable power for the computer
-- Supplies power to all internal components
+### 5. Power Supply Unit (PSU)
+- Converts electrical power from outlet into usable form  
+- Distributes power to all components  
 
 ---
 
-### 6. **Input/Output Devices**
-- Input: Keyboard, mouse (used to interact with the system)
-- Output: Monitor, speakers (used to display results)
+### 6. Input/Output Devices
+- **Input:** Keyboard, mouse  
+- **Output:** Monitor, speakers  
+- Allow user interaction with the system  
 
 ---
 
-## ⚙️ The Boot Process (Startup Sequence)
+## Component Placement Exercise
 
-The **boot process** is how a computer starts up and loads the operating system.
+![Components of Computer System](screenshots/component-placement-exercise.png)
 
-### 🔄 Steps in the Boot Process:
+---
+
+![Flag Exercise Captured](screenshots/component-placement-flag-captured.png)
+
+---
+
+## ⚙️ Boot Process (Startup Sequence)
+
+The boot process is the sequence a computer follows to start and load the operating system.
+
+### 🔄 Steps:
 
 1. **Power On**
-   - Power supply sends electricity to all components
+   - System receives power from PSU  
 
 2. **BIOS/UEFI Initialization**
-   - Firmware (BIOS or UEFI) starts up
-   - Performs POST (Power-On Self-Test) to check hardware
+   - Firmware starts up  
+   - Performs POST (Power-On Self-Test)  
+   - Checks hardware components  
 
-3. **Bootloader Execution**
-   - BIOS/UEFI looks for a bootable device (HDD/SSD/USB)
-   - Loads the bootloader (e.g., GRUB)
+3. **Boot Device Selection**
+   - System searches for bootable device (HDD, SSD, USB)  
 
-4. **Operating System Loading**
-   - Bootloader loads the operating system kernel into RAM
+4. **Bootloader Execution**
+   - Bootloader (e.g., GRUB) is loaded  
+   - Responsible for loading the OS  
 
-5. **System Initialization**
-   - OS starts services and processes
-   - User is presented with login screen or desktop
+5. **Operating System Loading**
+   - Kernel is loaded into RAM  
+   - System processes start  
+
+6. **System Ready**
+   - Login screen or desktop appears  
+
+---
+
+
+## Boot Sequence Exercise
+
+![Boot Sequence](screenshots/boot-sequence-exercise.png)
+
+---
+
+![Exercise Flag Captured](screenshots/boot-sequence-flag-captured.png)
 
 ---
 
 ## 🔐 Cybersecurity Relevance
 
-- Understanding system components helps in:
-  - Identifying hardware-related vulnerabilities
-  - Troubleshooting system issues
-  - Analyzing malware behavior
+### Why this matters:
 
-- The **boot process is a target for attackers**:
-  - Bootkits and rootkits can infect early startup stages
-  - Attackers may modify the bootloader or firmware to gain persistence
+- Attackers can target **early boot stages**
+- Compromising boot process = deeper system control
 
----
+### Common threats:
+- **Bootkits** – Malware that infects the bootloader  
+- **Rootkits** – Hidden malware that maintains persistence  
 
-## 💡 Key Takeaways
-
-- Every component in a computer system has a specific role
-- Components work together to execute tasks efficiently
-- The boot process is critical and can be exploited if not secured
-- Strong foundational knowledge is essential for advanced cybersecurity topics
+### Importance:
+- Helps in **incident analysis**  
+- Improves understanding of **system compromise**  
+- Supports **threat detection and response**  
 
 ---
 
-## 🧠 Notes to Remember
+## 🧠 Key Concepts to Remember
 
-> You may not fully realize the importance now, but these concepts will become very useful when analyzing attacks, investigating incidents, and understanding how systems are compromised.
+- Each component has a specific role  
+- Components work together as a system  
+- Boot process is critical and sensitive  
+- Early-stage attacks are harder to detect  
+
+---
+
+## 📚 Quick Summary
+
+- Computer systems rely on hardware components working together  
+- The boot process loads the operating system step-by-step  
+- Cybersecurity professionals must understand both to detect and prevent attacks  
 
 ---
