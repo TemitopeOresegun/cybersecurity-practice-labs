@@ -63,3 +63,11 @@ This lab helped me see that cybersecurity isn’t just about tools—it starts w
 I’m building my foundation step by step.
 
 ---
+
+## 📸 Screenshots
+
+![Lab Completed](screenshots/inside-a-computer-system.png)
+
+*Screenshots of lab completion*
+
+---
