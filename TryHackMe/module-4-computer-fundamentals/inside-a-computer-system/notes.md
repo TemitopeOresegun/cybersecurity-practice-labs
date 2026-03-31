@@ -1,5 +1,4 @@
 
-```markdown
 # 🖥️ Inside a Computer System – TryHackMe Lab Notes
 
 ## 📌 Overview
@@ -101,4 +100,3 @@ The **boot process** is how a computer starts up and loads the operating system.
 > You may not fully realize the importance now, but these concepts will become very useful when analyzing attacks, investigating incidents, and understanding how systems are compromised.
 
 ---
-```
