@@ -1,23 +1,40 @@
 
-# 💻 Computer Types – TryHackMe Lab
+# 💻 Computer Types – TryHackMe Notes
 
 ## 📌 Overview
-In this lab, I learned about different **types of computers** and how they are categorized based on their purpose and usage. I also explored why this is important in cybersecurity.
+This lab introduced different **types of computers** and their purposes.  
+Understanding this helps in cybersecurity because each system has **unique risks and attack surfaces**.
 
 ---
 
-## 🧩 Key Topics Covered
-- Personal Computers (PCs)  
-- Servers  
-- Mobile Devices  
-- Embedded Systems  
-- IoT Devices  
+## 🧩 Types of Computers
+
+- **Laptops** → Portable, everyday use  
+- **Desktops** → Fixed location, strong performance  
+- **Workstations** → High performance for professional tasks  
+- **Servers** → Provide services to multiple users  
+- **IoT Devices** → Internet-connected, single-purpose (e.g., smart devices)  
+- **Embedded Systems** → Built into devices (e.g., sensors, controllers)  
+- **Smartphones** → Portable, optimized for connectivity and battery  
+- **Tablets** → Touch-based, larger screen devices  
+
+---
+
+## 🔍 IoT vs Embedded
+
+- **IoT Devices** → Connected to the internet  
+- **Embedded Systems** → Not always connected  
+
+> All IoT devices are embedded systems, but not all embedded systems are IoT.
 
 ---
 
 ## 🔐 Cybersecurity Insight
-Different computer types have different **security risks and attack surfaces**.  
-Attackers often choose targets based on their value and vulnerabilities.
+- Different devices = different vulnerabilities  
+- Common targets:
+  - PCs → Malware, phishing  
+  - Servers → Data breaches  
+  - IoT → Botnets  
 
 ---
 
@@ -29,7 +46,10 @@ Attackers often choose targets based on their value and vulnerabilities.
 
 ---
 
-## 💡 Key Takeaway
-Understanding different types of systems helps in identifying potential risks and improving overall security.
+## 🧠 Key Takeaway
+Each computer type serves a specific purpose and has its own **security risks**.
 
 ---
+
+⭐ *My cybersecurity learning journey on TryHackMe*
+```
