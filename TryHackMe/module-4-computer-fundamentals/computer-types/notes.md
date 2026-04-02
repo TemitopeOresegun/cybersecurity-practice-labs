@@ -99,6 +99,8 @@ Examples:
 
 ✅ Successfully completed the practical and captured the flag.
 
+---
+
 ## 🚀 Reflection
 
 This lab helped me realize that cybersecurity is not just about one system. It involves understanding **all types of devices in an environment**.
