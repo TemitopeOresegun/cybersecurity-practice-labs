@@ -50,6 +50,3 @@ Understanding this helps in cybersecurity because each system has **unique risks
 Each computer type serves a specific purpose and has its own **security risks**.
 
 ---
-
-⭐ *My cybersecurity learning journey on TryHackMe*
-```
