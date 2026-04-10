@@ -22,5 +22,8 @@ Understanding how systems communicate helps identify vulnerabilities like poor s
 
 ---
 
-## ✅ Status
-Lab completed successfully.
+## 📸 Screenshot
+
+![Client-Server Basics Lab Completion](screenshots/client-server-basics.png)
+
+*✅ Lab successfully completed.*
