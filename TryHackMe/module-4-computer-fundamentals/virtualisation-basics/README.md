@@ -35,3 +35,10 @@ This lab introduced me to **virtualisation**, which allows one physical computer
 
 ---
 
+## 📸 Screenshot
+
+![Virtualisation Basics Lab Completion](screenshots/virtualisation-basics.png)
+
+*✅ Lab successfully completed.*
+
+---
