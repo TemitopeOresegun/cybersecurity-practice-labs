@@ -36,6 +36,6 @@ This lab introduces the fundamentals of cloud computing, including deployment mo
 
 ## 📸 Screenshot
 
-![[Lab Completion](screenshots/cloud-lab-completion.png)
+![Lab Completion](screenshots/cloud-lab-completion.png)
 
 *✅ Lab successfully completed.*
