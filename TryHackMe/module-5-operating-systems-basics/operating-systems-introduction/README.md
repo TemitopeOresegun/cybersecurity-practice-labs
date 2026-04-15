@@ -63,7 +63,7 @@ Understanding how an OS works makes it easier to analyze system behavior, logs, 
 
 ## 📸 Lab Completion Screenshot
 
-![Lab Completion](screenshot/opertaing-systems-completed.png)
+![Lab Completion](screenshots/opertaing-systems-completed.png)
 
 *✅ Lab successfully completed.*
 
