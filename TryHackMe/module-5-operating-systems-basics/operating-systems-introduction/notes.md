@@ -127,9 +127,9 @@ ls      # list files
 cd      # change directory
 pwd     # show current directory
 
-## 🌍 Types of Operating Systems
-
 ```
+
+## 🌍 Types of Operating Systems
 
 ### 💻 Desktop OS
 - Used for personal computers  
