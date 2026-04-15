@@ -129,6 +129,8 @@ pwd     # show current directory
 
 ## 🌍 Types of Operating Systems
 
+```
+
 ### 💻 Desktop OS
 - Used for personal computers  
 - Examples: Windows, macOS, Linux  
