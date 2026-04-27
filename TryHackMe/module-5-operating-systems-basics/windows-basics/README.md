@@ -24,6 +24,6 @@ This lab reinforces that strong fundamentals are essential in cybersecurity. Und
 
 ## 📸 Lab Completion Screenshot
 
-![Windows Basics Lab Completion](./screenshot.png)
+![Windows Basics Lab Completion](screenshots/screenshot.png)
 
 ---
