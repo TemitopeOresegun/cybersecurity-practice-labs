@@ -39,6 +39,6 @@ df -h
 
 ## 📸 Lab Completion Screenshot
 
-![Completion of lab](screnshots/completion.png)
+![Completion of lab](screenshots/completion.png)
 
 *✅ Lab successfully completed.*
