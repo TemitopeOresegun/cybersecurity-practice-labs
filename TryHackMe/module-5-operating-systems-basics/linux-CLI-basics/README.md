@@ -37,7 +37,8 @@ df -h
 
 ---
 
-## 📸 Lab Completion
+## 📸 Lab Completion Screenshot
 
-!{Completion of lab}(screnshots/completion.png)
+![Completion of lab](screnshots/completion.png)
 
+*✅ Lab successfully completed.*
