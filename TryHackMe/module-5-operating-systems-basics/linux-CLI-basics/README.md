@@ -39,5 +39,5 @@ df -h
 
 ## 📸 Lab Completion
 
-!{Completion of lab}(screnshots/completion.png)
+! {Completion of lab}(screnshots/completion.png)
 
