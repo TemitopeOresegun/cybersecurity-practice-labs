@@ -20,7 +20,7 @@ Understand SOC Tier structure (L1/L2/L3), Blue Team workflow, and CIA triad in a
 ### Key Takeaway for L1 Interview
 Filtering 90% noise (normal user fails) to find 10% true positive (brute force -> success from known C2) and escalating with MITRE-mapped evidence is the core L1 job.
 
-### Artifacts
-- siem-alert.png
-- ip-hunter-221.181.185.159.png
-- firewall-block-T1110-T1078.png
+### Artifacts (Evidence)
+![SIEM Alert - Successful SSH login from 221.181.185.159](./screenshots/siem-alert.png)
+![IP Hunter - Malicious C2/PlugX 4 Attacks](./screenshots/ip-hunter-221.181.185.159.png)
+![Firewall Block - T1110 to T1078 MITRE Mapped](./screenshots/firewall-block-T1110-T1078.png)
