@@ -1,6 +1,6 @@
 
 # 02 - SOC Role in Blue Team
-Date: Sep 2, 2026
+Date: Sep 1, 2026
 Status: ✅ Completed
 
 What is SOC?
