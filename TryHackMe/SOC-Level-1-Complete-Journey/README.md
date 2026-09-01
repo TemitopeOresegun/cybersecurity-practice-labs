@@ -1,7 +1,7 @@
 
 # 🛡️ SOC Level 1 - TryHackMe | Temitope Oresegun (oteejay96)
 **Goal:** SOC Analyst Level 1 (SAL1) Certification
-**Progress:** 1/14 Completed
+**Progress:** 2/4 Completed
 
 | # | Room Name | Status | Date Completed | Key MITRE Techniques | Key Learning |
 |---|-----------|--------|----------------|---------------------|--------------|
