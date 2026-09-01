@@ -1,5 +1,5 @@
 
-# [01/14] Junior Security Analyst Intro - TryHackMe SOC L1
+# [01] Junior Security Analyst Intro - TryHackMe SOC L1
 **Handle:** oteejay96 | **Completed:** Aug 31, 2026 | **Room Type:** SOC L1 Triage Simulation
 
 ### Objective
