@@ -1,6 +1,6 @@
 
-# 04 Systems as Attack Vectors - Completed [4/14]
-Date: Sep 8, 2026 | Badge: First Step into SOC
+# 04 Systems as Attack Vectors
+Date: Sep 8, 2026 | Status: ✅ Completed | Badge: First Step into SOC
 
 ## Objective
 Understand systems as entry point vs humans. Patch + hunt, not just block.
