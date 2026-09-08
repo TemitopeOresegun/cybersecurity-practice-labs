@@ -1,5 +1,5 @@
 
-# 04 Systems as Attack Vectors
+# 04 - Systems as Attack Vectors
 Date: Sep 8, 2026 | Status: ✅ Completed | Badge: First Step into SOC
 
 ## Objective
