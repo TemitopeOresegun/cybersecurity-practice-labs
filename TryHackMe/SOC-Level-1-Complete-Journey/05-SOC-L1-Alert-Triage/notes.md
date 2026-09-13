@@ -77,17 +77,17 @@ Action: Close alert. Recommend tuning: whitelist github.com/facebook/react for D
 - Board showing alerts closed - [View Board](./screenshots/triage-board.png)
 
 ### Alert 1 - Double-Extension cats2025.mp4.exe - Formbook - TRUE POSITIVE
-- Formbook TP - [View](./screenshots/Formbook%20TP.png)
+- Analyst Comment - Formbook TP - [View](./screenshots/Formbook%20TP.png)
 - VirusTotal 51/71 Malicious - [View](./screenshots/Formbook%20VT.png)
 - Talos Malicious Formbook.28ck.in14.Talos - [View](./screenshots/Formbook%20Talos.png)
 
 ### Alert 2 - Potential Data Exfiltration *.zoom.us - FALSE POSITIVE
-- Zoom FP - [View](./screenshots/Zoom%20FP.png)
+- Analyst Comment - Zoom FP - [View](./screenshots/Zoom%20FP.png)
 - VirusTotal 0/89 Clean - Private RFC1918 - [View](./screenshots/Zoom%20VT.png)
 - WHOIS IANA-RESERVED PRIVATE-ADDRESS - [View](./screenshots/Zoom%20Whois.png)
 
 ### Alert 3 - Download from GitHub Repository - FALSE POSITIVE
-- GitHub FP - [View](./screenshots/GitHub%20FP.png)
+- Analyst Comment - GitHub FP - [View](./screenshots/GitHub%20FP.png)
 - VirusTotal 0/90 Clean - [View](./screenshots/GitHub%20VT.png)
 - urlscan.io No Classification - 140.82.121.3 GitHub Inc - [View](./screenshots/GitHub%20urlscan.png)
   
