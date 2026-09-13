@@ -72,5 +72,24 @@ Action: Close alert. Recommend tuning: whitelist github.com/facebook/react for D
 
 ---
 ## Evidence
-- Screenshots: triage-board, Formbook VT+Talos, Zoom RFC1918, GitHub urlscan
-- Badge: SOC L1 Alert Triage completed - Sep 13, 2026
+
+### Full Triage Board
+- Board showing 3 alerts closed by You (L1) - [View Board](./Screenshots/triage-board.png)
+
+### Alert 1 - Double-Extension cats2025.mp4.exe - Formbook - TRUE POSITIVE
+- Analyst Comment - Formbook TP - [View](./Screenshots/Formbook%20TP.png)
+- VirusTotal 51/71 Malicious - [View](./Screenshots/Formbook%20VT.png)
+- Talos Malicious Formbook.28ck.in14.Talos - [View](./Screenshots/Formbook%20Talos.png)
+
+### Alert 2 - Potential Data Exfiltration *.zoom.us - FALSE POSITIVE
+- Analyst Comment - Zoom FP - [View](./Screenshots/Zoom%20FP.png)
+- VirusTotal 0/89 Clean - Private RFC1918 - [View](./Screenshots/Zoom%20VT.png)
+- WHOIS IANA-RESERVED PRIVATE-ADDRESS - [View](./Screenshots/Zoom%20Whois.png)
+
+### Alert 3 - Download from GitHub Repository - FALSE POSITIVE
+- Analyst Comment - GitHub FP - [View](./Screenshots/GitHub%20FP.png)
+- VirusTotal 0/90 Clean - [View](./Screenshots/GitHub%20VT.png)
+- urlscan.io No Classification - 140.82.121.3 GitHub Inc - [View](./Screenshots/GitHub%20urlscan.png)
+  
+### Badge
+- SOC L1 Alert Triage completed Sep 13, 2026 - [View](./Screenshots/SOC%20L1%20Alert%20Triage.png)
