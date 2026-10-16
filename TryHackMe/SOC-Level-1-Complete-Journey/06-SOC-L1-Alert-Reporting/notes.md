@@ -99,7 +99,7 @@ Two alerts in In Progress requiring full investigation and reporting using the 5
 - Analyst Comment with 5Ws - Compromised Host via IIS -> revshell -> SYSTEM - [View](./Screenshots/domain-discovery-TP-comment.png)
 
 #### Badge
-- SOC L1 Alert Reporting completed - oteejay96 - [View](./Screenshots/SOC%20L1%20Alert%20Reporting.png)
+- SOC L1 Alert Reporting completed - oteejay96 - [View](./Screenshots/SOC_L1_Alert_Reporting.png)
 
 ---
 
