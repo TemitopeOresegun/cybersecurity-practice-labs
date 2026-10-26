@@ -12,5 +12,6 @@
 | 05 | SOC L1 Alert Triage | ✅ Completed | Sep 13, 2026 | T1036.007, T1566, T1048, T1078 | Alert Triage, OSINT VT/Talos/urlscan/whois, FP vs TP, Private IP RFC1918, Zoom FP, GitHub FP, Formbook True Positive. |
 | 06 | SOC L1 Alert Reporting | ✅ Completed | Oct 16, 2026 | T1566.001, T1190, T1087 | 5W model ensures complete reporting for L2/IR handoff |
 | 07 | SOC Workbooks and Lookups | ✅ Completed | Oct 24, 2026 | T1566.001, T1059.001, T1071 | Workbook-driven triage: Email Analysis (phishing headers, SPF/DKIM, VT/urlscan), PowerShell Analysis (obfuscation, EncodedCommand, IEX), Network Analysis (DNS, HTTP, beaconing). Reduces human error & forces enrichment. |
-| 08 | ... | ⬜ Not Started | - | - | - |
+| 08 | SOC Metrics and Objectives | ✅ Completed | Oct 26, 2026 | MTTD, MTTA, MTTR, FP Rate, SLA | MTTD/MTTA/MTTR/SLA/FP concepts. L1 influence on SOC performance. |
+| 09 | ... | ⬜ Not Started | - | - | - |
 ...
