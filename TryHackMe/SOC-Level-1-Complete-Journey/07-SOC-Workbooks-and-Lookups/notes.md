@@ -16,4 +16,4 @@ MITRE: T1059.001
 DNS/HTTP beaconing, AbuseIPDB/OTX enrichment
 MITRE: T1071
 
-**Workflow:** Alert -> Workbook -> Enrichment -> Verdict -> 5W Report
+**Workflow:** Alert -> Workbook -> Enrichment -> Verdict -> 5W Report.
