@@ -30,4 +30,4 @@ Time from acknowledgement to containment & closure/escalation. Core SLA metric.
 - Flag noisy rules = lower FP rate
 
 ## Workflow
-Alert -> MTTD -> MTTA -> Workbook -> Report -> MTTR -> Close/Escalate
+Alert -> MTTD -> MTTA -> Workbook -> Report -> MTTR -> Close/Escalate.
