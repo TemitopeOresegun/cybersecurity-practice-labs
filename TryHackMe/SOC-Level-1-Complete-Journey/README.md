@@ -13,5 +13,6 @@
 | 06 | SOC L1 Alert Reporting | ✅ Completed | Oct 16, 2026 | T1566.001, T1190, T1087 | 5W model ensures complete reporting for L2/IR handoff |
 | 07 | SOC Workbooks and Lookups | ✅ Completed | Oct 24, 2026 | T1566.001, T1059.001, T1071 | Workbook-driven triage: Email Analysis (phishing headers, SPF/DKIM, VT/urlscan), PowerShell Analysis (obfuscation, EncodedCommand, IEX), Network Analysis (DNS, HTTP, beaconing). Reduces human error & forces enrichment. |
 | 08 | SOC Metrics and Objectives | ✅ Completed | Oct 26, 2026 | MTTD, MTTA, MTTR, FP Rate, SLA | MTTD/MTTA/MTTR/SLA/FP concepts. L1 influence on SOC performance. |
-| 09 | ... | ⬜ Not Started | - | - | - |
+| 09 | SOC Simulator - Intro to Phishing | ✅ Completed | Oct 27, 2026 | 100% TP/FP, 21m MTTR, 60m dwell | Victory! Improve Why/Where detail for L2 handoff |
+| 10 | ... | ⬜ Not Started | - | - | - |
 ...
